@@ -1,10 +1,12 @@
-# Halo semua! 
+# Whats'up Bro! 
 
-Perkenalkan nama saya **Kheira Abinaya**.<br>
+My name is Kheira Abinaya Gavin Lovedila, usually called **Kheira**. I am currently a student at [SMK N 7 SEMARANG](https://smkn7semarang.sch.id/), majoring in Network Information Systems and Applications because I have a high interest in technology, Ai, and Web Development. I am able to work in a team, think creatively, and keep learning new things that support my future career in technology.
 
-Saya seorang **Siswa** di [SMK N 7 SEMARANG](https://smkn7semarang.sch.id/).<br>
+If you are interested in getting to know me, please follow me on Social Media </br>
+[Linktree](https://linktr.ee/Kheira_Abinaya)
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/kheira-abinaya-677ba2286/)ku ya.
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=481n4y4&theme=radical)
 
 ### Github Statistic
 <p align="left">
