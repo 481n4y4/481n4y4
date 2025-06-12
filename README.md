@@ -13,8 +13,5 @@ If you are interested in getting to know me, please follow me on Social Media </
 </a>
 </p>
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=481n4y4&theme=radical)
-
 ## 📈 GitHub Activity Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=481n4y4&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
