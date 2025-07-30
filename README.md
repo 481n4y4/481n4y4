@@ -1,4 +1,6 @@
-# Whats'up Bro! 
+<img src="5132-pixel-mario.gif" width="100%">
+
+# 🌍 Hello World! 
 
 My name is Kheira Abinaya Gavin Lovedila, usually called **Kheira**. I am currently a student at [SMK N 7 SEMARANG](https://smkn7semarang.sch.id/), majoring in Network Information Systems and Applications because I have a high interest in technology, Ai, and Web Development. I am able to work in a team, think creatively, and keep learning new things that support my future career in technology.
 
