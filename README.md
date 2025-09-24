@@ -5,7 +5,7 @@
 My name is Kheira Abinaya Gavin Lovedila, usually called **Kheira**. I am currently a student at [SMK N 7 SEMARANG](https://smkn7semarang.sch.id/), majoring in Network Information Systems and Applications because I have a high interest in technology, Ai, and Web Development. I am able to work in a team, think creatively, and keep learning new things that support my future career in technology.
 
 If you are interested in getting to know me, please follow me on Social Media </br>
-[Linktree](https://linktr.ee/Kheira_Abinaya)
+[binay.dev](https://binay-dev.vercel.app/)
 
 ## 📊 Github Statistic
 <p align="left">
