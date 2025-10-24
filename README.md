@@ -8,9 +8,9 @@ If you are interested in getting to know me, please follow me on Social Media </
 [binay.dev](https://binay-dev.vercel.app/)
 
 ## 📊 Github Statistic
-<p align="left">
+<div style="display: flex; gap: 8">
 <a href="https://github.com/481n4y4">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=481n4y4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=481n4y4&layout=compact&theme=algolia"/>
 </a>
-</p>
+</div>
