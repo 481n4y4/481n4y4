@@ -1,4 +1,4 @@
-<img src="japan-gif.gif" width="100%">
+<!-- <img src="japan-gif.gif" width="100%"> -->
 
 # 🌍 Hello World! 
 
