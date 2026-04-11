@@ -44,3 +44,6 @@ const kheira = {
 <div align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=481n4y4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=481n4y4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=481n4y4&theme=tokyonight&hide_border=true&background=0d1117" /> </div>
 
 ## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/481n4y4/481n4y4/output/github-contribution-grid-snake-dark.svg" />
+</div>
