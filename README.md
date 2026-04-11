@@ -23,7 +23,6 @@ const kheira = {
   school    : "SMK (SIJA / Network and Application Information Systems)",
   role      : ["Full Stack Developer", "AI Enthusiast"],
   stack     : ["MongoDB", "Express", "React", "Node.js"],
-  currently : "Building Hidden Voice — AI sign language translator 🤟",
   interest  : ["AI", "Backend System", "Web Development"],
   motto     : "Build impactful tech, not just projects.",
 };
