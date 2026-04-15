@@ -29,7 +29,7 @@ const kheira = {
 ```
 
 ## 🛠️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode&perline=6&theme=dark" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,laravel,js,html,css,git,github,vscode&perline=6&theme=dark" /> </div>
 
 
 ## 🏅 Certifications
