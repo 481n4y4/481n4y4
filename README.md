@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2500&pause=800&color=00FFB2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kheira+Abinaya;Full+Stack+Developer;AI+Enthusiast;console.log(%22Hello+World%22);" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2500&pause=800&color=00FFB2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kheira+Abinaya;Full+Stack+Developer;console.log(%22Coffe+Sleep+Code%22);AI+Enthusiast;console.log(%22Hello+World%22);" />
 </div>
 </br>
 
@@ -8,7 +8,7 @@
   <a href="https://thakei-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=481n4y4&style=for-the-badge&color=blueviolet" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=481n4y4&style=for-the-badge&color=blueviolet" /> -->
 </div>
 
 <br/>
@@ -22,7 +22,7 @@ const kheira = {
   fullName  : "Kheira Abinaya",
   school    : "SMK (SIJA / Network and Application Information Systems)",
   role      : ["Full Stack Developer", "AI Enthusiast"],
-  stack     : ["MongoDB", "Express", "React", "Node.js"],
+  stack     : ["MongoDB", "Express", "React", "Node.js", "Laravel", "Nuxt.js"],
   interest  : ["AI", "Backend System", "Web Development"],
   motto     : "Build impactful tech, not just projects.",
 };
