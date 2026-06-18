@@ -22,7 +22,7 @@ const kheira = {
   fullName  : "Kheira Abinaya",
   school    : "SMK (SIJA / Network and Application Information Systems)",
   role      : ["Full Stack Developer", "AI Enthusiast"],
-  stack     : ["MongoDB", "Express", "React", "Node.js", "Laravel", "Nuxt.js"],
+  stack     : ["MongoDB", "Express", "React", "Node.js", "Laravel", "Nuxt.js", "Go"],
   interest  : ["AI", "Backend System", "Web Development", "DevOps"],
   motto     : "Build impactful tech, not just projects.",
 };
